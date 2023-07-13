@@ -23,7 +23,7 @@ public class Bai2 extends AppCompatActivity {
         inHeight = findViewById(R.id.inHeight);
         btnB2 = findViewById(R.id.btnB2);
         txtResult = findViewById(R.id.txtResult);
-        link = "http://192.168.1.166/bai2.php";
+        link = "http://192.168.1.26/bai2.php";
 
         btnB2.setOnClickListener(new View.OnClickListener() {
             @Override

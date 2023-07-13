@@ -25,7 +25,7 @@ public class Bai1 extends AppCompatActivity {
         inName = findViewById(R.id.inName);
         inScore = findViewById(R.id.inScore);
 
-        link = "http://192.168.1.166/std.php";
+        link = "http://192.168.1.26/std.php";
     }
 
     public void B1Send(View view) {
